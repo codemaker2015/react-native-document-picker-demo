@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-document-picker-demo",
+    "slug": "react-native-document-picker-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-document-picker-demo"
+}
